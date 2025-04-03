@@ -1,7 +1,7 @@
-# 🚀 Welcome to My GitHub Universe!  
 
 👋 Hey, I'm Afin!  
-💻 Full-Stack Developer | 🎨 Futuristic UI Designer | 🔒 Cybersecurity Beginner  
+💻 Full-Stack Developer | 🎨 
+UI Designer | 🔒 Cybersecurity Beginner  
 
 🔹 Passionate about **coding, UI/UX, cybersecurity & gaming**  
 🔹 Learning **MERN Stack** | Focused on **Frontend & Future Tech**  
