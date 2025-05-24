@@ -1,4 +1,4 @@
-# Hi, I’m Afin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+# ![Hi, I’m Afin](https://your-animated-gif-link-here.gif)
 
 I’m a **Full-Stack Developer** and **UI Designer** passionate about crafting clean, efficient code and intuitive user experiences. Currently diving deep into the **MERN stack** with a focus on frontend development and exploring future technologies.
 
@@ -33,4 +33,5 @@ I’m committed to writing clean code, solving problems creatively, and deliveri
 ---
 
 **Let’s build the future, one line of code at a time.**
+
 
