@@ -1,37 +1,36 @@
+# Hi, I’m Afin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
-👋 Hey, I'm Afin!  
-💻 Full-Stack Developer | 🎨 
-UI Designer | 🔒 Cybersecurity Beginner  
+I’m a **Full-Stack Developer** and **UI Designer** passionate about crafting clean, efficient code and intuitive user experiences. Currently diving deep into the **MERN stack** with a focus on frontend development and exploring future technologies.
 
-🔹 Passionate about **coding, UI/UX, cybersecurity & gaming**  
-🔹 Learning **MERN Stack** | Focused on **Frontend & Future Tech**  
-🔹 Exploring **Cybersecurity & Ethical Hacking**  
+---
 
-## ⚡ Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## What I Do
 
+- Build scalable and responsive web applications  
+- Design user-centered interfaces with attention to detail  
+- Constantly learning and improving in modern JavaScript frameworks  
 
-## 🔥 Cybersecurity Interests  
-- Ethical Hacking 🛡  
-- Web Security 🔐  
-- Linux & Terminal Power 🖥  
-- CTF Challenges 🚀  
+---
 
-## 📌 Featured Projects  
-🚀 [Project 1](#) – Description of your top project  
-🎨 [Project 2](#) – UI/UX design showcase  
-🔒 [Project 3](#) – Cybersecurity experiment  
+## Selected Projects
 
-## 📊 GitHub Stats  
-![Afin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afin0x&show_icons=true&theme=radical)  
+- **Project 1** — A full-stack web app that solves [brief problem or feature]  
+- **Project 2** — A UI/UX case study showcasing [design focus or feature]  
+- **Project 3** — [Optional: Another standout project or feature]  
 
+---
 
-📫 **Let's connect & build something futuristic!**  
+## Why Connect With Me?
+
+I’m committed to writing clean code, solving problems creatively, and delivering quality work. If you’re interested in collaborating or just want to chat about tech and design, feel free to reach out.
+
+---
+
+## GitHub Stats
+
+![Afin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afin0x&show_icons=true&theme=radical)
+
+---
+
+**Let’s build the future, one line of code at a time.**
+
