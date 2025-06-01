@@ -48,6 +48,10 @@
 
 ### 📈 GitHub Stats
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00A8E8&center=true&width=600&lines=Hi,+I'm+Afin" alt="Typing Animation" />
+</h1>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Afin0x&show_icons=true&theme=transparent" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Afin0x&theme=transparent" width="48%" />
