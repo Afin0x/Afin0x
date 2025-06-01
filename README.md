@@ -1,10 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Afin.;Frontend+Developer.;+MERN+Stack+Dev.;UI%2FUX+Focused+Engineer." alt="Typing animation with Afin's name and roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Afin." alt="Line 1 - Blue" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Frontend+Developer." alt="Line 2 - Orange Red" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=MERN+Stack+Dev." alt="Line 3 - Lime Green" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=UI%2FUX+Focused+Engineer." alt="Line 4 - Gold" />
 </p>
 
-<h3 align="center">
-  Passionate about building clean, responsive UIs with a focus on user experience.
-</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=2000&color=708090&center=true&vCenter=true&width=800&lines=Passionate+about+building+clean,+responsive+UIs+with+a+focus+on+user+experience." alt="Typing animation for passion statement" />
+</p>
+
 
 ---
 
@@ -47,10 +58,6 @@
 ---
 
 ### 📈 GitHub Stats
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00A8E8&center=true&width=600&lines=Hi,+I'm+Afin" alt="Typing Animation" />
-</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Afin0x&show_icons=true&theme=transparent" width="48%" />
