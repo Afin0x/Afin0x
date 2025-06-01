@@ -1,35 +1,50 @@
-# ![Hi, I’m Afin](https://i.imgur.com/8OtSxV8.gif)
+# 🚀 Project Name
 
-I’m a **Full-Stack Developer** and **UI Designer** passionate about crafting clean, efficient code and intuitive user experiences. Currently diving deep into the **MERN stack** with a focus on frontend development and exploring future technologies.
+A short and catchy description of your project. Mention what it does in one line.
 
----
+<br/>
 
-## What I Do
+![Screenshot](link-to-screenshot.png)
 
-- Build scalable and responsive web applications  
-- Design user-centered interfaces with attention to detail  
-- Constantly learning and improving in modern JavaScript frameworks  
+## ✨ Features
 
----
+- ✅ Feature 1
+- 🚀 Feature 2
+- 🎯 Feature 3
+- 🌙 Dark mode support (if any)
+- 📱 Fully responsive
 
-## Selected Projects
+<br/>
 
-- **Project 1** — A full-stack web app that solves [brief problem or feature]  
-- **Project 2** — A UI/UX case study showcasing [design focus or feature]  
-- **Project 3** — [Optional: Another standout project or feature]  
+## 🔧 Tech Stack
 
----
+**Frontend:** React, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Other Tools:** Vite, Axios, JWT, etc.
 
-## Why Connect With Me?
+<br/>
 
-I’m committed to writing clean code, solving problems creatively, and delivering quality work. If you’re interested in collaborating or just want to chat about tech and design, feel free to reach out.
+## 📸 Screenshots
 
----
+| Landing Page | Dashboard | Mobile View |
+|--------------|-----------|-------------|
+| ![](link1.png) | ![](link2.png) | ![](link3.png) |
 
-## GitHub Stats
+<br/>
 
-![Afin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afin0x&show_icons=true&theme=radical)
+## ⚙️ Installation
 
----
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
 
-**Let’s build the future, one line of code at a time.**
+# Navigate into the folder
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
+
