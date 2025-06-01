@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=6000&pause=1000&color=708090&center=true&vCenter=true&width=800&repeat=false&lines=Passionate+about+building+clean,+responsive+UIs+with+a+focus+on+user+experience." alt="Passion statement typed once" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=708090&center=true&vCenter=true&width=700&repeat=false&lines=Crafting+clean,+responsive+UIs+with+a+user-centric+focus." alt="Passion statement typed once" />
 </p>
+
 
 ---
 
