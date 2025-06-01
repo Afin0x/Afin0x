@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Afin.;Frontend+Developer.;MERN+Stack+Dev.;UI%2FUX+Focused+Engineer." alt="Typing animation with name and roles" />
 </p>
 
-<p align="center" style="color:#708090; font-size:18px; max-width:650px; line-height:1.5; margin: 20px auto;">
-  Passionate about building clean, responsive UIs with a focus on user experience.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=6000&pause=1000&color=708090&center=true&vCenter=true&width=800&repeat=false&lines=Passionate+about+building+clean,+responsive+UIs+with+a+focus+on+user+experience." alt="Passion statement typed once" />
 </p>
 
 ---
