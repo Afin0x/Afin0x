@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Afin.;Frontend+Developer.;+%7C+MERN+Stack+Dev.;UI%2FUX+Focused+Engineer." alt="Typing animation with Afin's name and roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Afin.;Frontend+Developer.;+MERN+Stack+Dev.;UI%2FUX+Focused+Engineer." alt="Typing animation with Afin's name and roles" />
 </p>
 
 <h3 align="center">
@@ -20,11 +20,28 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, HTML, CSS  
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express (learning)  
-- **Database:** MongoDB (basic knowledge)  
-- **Tools:** Git, GitHub, Vite, Figma, VS Code
+#### 🧩 Languages  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+
+#### ⚛️ Frontend  
+- React.js  
+- Tailwind CSS  
+- Responsive Design & Component-Based Architecture  
+
+#### 🛠 Backend (Learning Phase)  
+- Node.js  
+- Express.js  
+
+#### 🗂️ Database  
+- MongoDB (Basics)  
+
+#### 🧰 Tools & Workflow  
+- Git & GitHub  
+- Vite  
+- Figma (UI Design & Prototyping)  
+- Visual Studio Code
 
 ---
 
@@ -55,12 +72,18 @@ A cozy-themed Pomodoro timer with sound control and beautiful blurred-glass UI.
 
 ### 📬 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+<p align="left">
+  <a href="https://linkedin.com/in/afin-nk-195366340" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <a href="mailto:afinnk1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/__a_f_i_n_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/Afinnk1" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
 
