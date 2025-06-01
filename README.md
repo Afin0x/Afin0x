@@ -27,7 +27,8 @@
 
 #### ⚛️ Frontend  
 - React.js  
-- Tailwind CSS  
+- Tailwind CSS
+- Bootstrap 5 
 - Responsive Design & Component-Based Architecture  
 
 #### 🛠 Backend (Learning Phase)  
