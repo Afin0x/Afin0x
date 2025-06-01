@@ -1,9 +1,10 @@
-<h1 align="center">Hey there 👋, I'm Afin</h1>
-<h3 align="center">Frontend Developer | React & MERN Stack Learner | UI/UX Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=React+Developer;Frontend+Focused;Clean+UI+Lover;Learning+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Afin.;Frontend+Developer.;React+%7C+MERN+Stack+Learner.;UI%2FUX+Focused+Engineer." alt="Typing animation with Afin's name and roles" />
 </p>
+
+<h3 align="center">
+  Passionate about building clean, responsive UIs with a focus on user experience.
+</h3>
 
 ---
 
