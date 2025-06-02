@@ -32,20 +32,22 @@ Experienced in building responsive web interfaces using **React.js**, with a foc
 
 ---
 
+
+
 ### 📬 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/afin-nk-195366340" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:afinnk1@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-FF453A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://instagram.com/__a_f_i_n_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://x.com/Afinnk1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x-twitter&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
 
