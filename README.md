@@ -9,9 +9,10 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/🧑‍💻 About%20Me-F97316?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 
 -  Currently learning the **MERN Stack**
