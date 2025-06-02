@@ -61,7 +61,7 @@ Experienced in building responsive web interfaces using **React.js**, with a foc
       alt="X (Twitter)"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
       width="32" height="32"
-      style="border-radius: 8px; background-color: #1DA1F2; padding: 4px;"
+      style="border-radius: 8px; background-color: #fff; padding: 4px;"
     />
   </a>
 </p>
