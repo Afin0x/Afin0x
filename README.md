@@ -54,14 +54,7 @@ Experienced in building responsive web interfaces using **React.js**, with a foc
     />
   </a>
 
-  <a href="https://instagram.com/__a_f_i_n_" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img
-      alt="Instagram"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"
-      width="32" height="32"
-      style="border-radius: 8px; background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); padding: 4px;"
-    />
-  </a>
+ 
 
   <a href="https://x.com/Afinnk1" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img
