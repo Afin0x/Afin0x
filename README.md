@@ -18,7 +18,10 @@
 -  Open to collaborations, team projects, and internships
 
 ---
-#  Tech Overview
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&width=435&lines=🚀+Tech+Overview" alt="Tech Overview Animated Heading" />
+</p>
+
 
 Experienced in building responsive web interfaces using **React.js**, with a focus on modern design practices using **Tailwind CSS** and **Bootstrap 5**. Comfortable working with tools like **Vite**, **Figma**, **Git**, and **Visual Studio Code**. Currently expanding backend knowledge with **Node.js**, **Express.js**, and basic **MongoDB**. Strong foundation in **JavaScript**, along with HTML & CSS essentials.
 
