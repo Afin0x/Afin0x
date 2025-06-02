@@ -11,35 +11,35 @@
 
 ### 🧑‍💻 About Me
 
-- 🎯 Currently learning the **MERN Stack**
-- 💻 Passionate about **frontend development** and **modern UI/UX design**
-- 🚀 Focused on building responsive, clean, and polished web apps
-- 🧠 Strong believer in writing **readable, clean code**
-- 🤝 Open to collaborations, team projects, and internships
+-  Currently learning the **MERN Stack**
+-  Passionate about **frontend development** and **modern UI/UX design**
+-  Focused on building responsive, clean, and polished web apps
+-  Strong believer in writing **readable, clean code**
+-  Open to collaborations, team projects, and internships
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🧩 Languages  
+####  Languages  
 - JavaScript (ES6+)  
 - HTML5  
 - CSS3  
 
-#### ⚛️ Frontend  
+####  Frontend  
 - React.js  
 - Tailwind CSS
 - Bootstrap 5 
 - Responsive Design & Component-Based Architecture  
 
-#### 🛠 Backend (Learning Phase)  
+####  Backend (Learning Phase)  
 - Node.js  
 - Express.js  
 
-#### 🗂️ Database  
+####  Database  
 - MongoDB (Basics)  
 
-#### 🧰 Tools & Workflow  
+#### Tools & Workflow  
 - Git & GitHub  
 - Vite  
 - Figma (UI Design & Prototyping)  
