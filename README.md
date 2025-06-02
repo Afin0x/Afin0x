@@ -33,7 +33,10 @@ Experienced in building responsive web interfaces using **React.js**, with a foc
 ---
 
 
-### 📬 Connect With Me
+<p align="left">
+  <img src="https://img.shields.io/badge/Connect%20With%20Me-%20-008080?style=for-the-badge&logo=mailchimp&logoColor=white" alt="Connect With Me" />
+</p>
+
 
 <p align="left" style="display: flex; gap: 12px; align-items: center;">
   <a href="https://linkedin.com/in/afin-nk-195366340" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
