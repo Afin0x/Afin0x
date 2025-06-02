@@ -18,58 +18,10 @@
 -  Open to collaborations, team projects, and internships
 
 ---
+#  Tech Overview
 
-### 🛠️ Tech Stack
+Experienced in building responsive web interfaces using **React.js**, with a focus on modern design practices using **Tailwind CSS** and **Bootstrap 5**. Comfortable working with tools like **Vite**, **Figma**, **Git**, and **Visual Studio Code**. Currently expanding backend knowledge with **Node.js**, **Express.js**, and basic **MongoDB**. Strong foundation in **JavaScript**, along with HTML & CSS essentials.
 
-####  Languages  
-- JavaScript (ES6+)  
-- HTML5  
-- CSS3  
-
-####  Frontend  
-- React.js  
-- Tailwind CSS
-- Bootstrap 5 
-- Responsive Design & Component-Based Architecture  
-
-####  Backend (Learning Phase)  
-- Node.js  
-- Express.js  
-
-####  Database  
-- MongoDB (Basics)  
-
-#### Tools & Workflow  
-- Git & GitHub  
-- Vite  
-- Figma (UI Design & Prototyping)  
-- Visual Studio Code
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afin0x&show_icons=true&theme=transparent" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Afin0x&theme=transparent" width="48%" />
-</p>
-
-
----
-
-### 🚀 Featured Projects
-
-#### 🟢 ArenaReserve
-A modern turf booking system with clean, responsive UI and smooth UX flow.  
-`Tech:` React, Tailwind CSS
-
-#### 🟣 DishQuest
-A recipe finder website with login/register authentication and a clean landing page.  
-`Tech:` React, CSS Modules, Firebase Auth
-
-#### 🟠 CozyPomodoro
-A cozy-themed Pomodoro timer with sound control and beautiful blurred-glass UI.  
-`Tech:` React, Custom Audio Hooks, Tailwind CSS
 
 ---
 
