@@ -18,7 +18,7 @@
 -  Open to collaborations, team projects, and internships
 
 ---
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Tech%20Overview-%20-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
