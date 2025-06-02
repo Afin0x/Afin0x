@@ -38,50 +38,15 @@ Experienced in building responsive web interfaces using **React.js**, with a foc
 </p>
 
 
-<p align="left" style="display: flex; gap: 12px; align-items: center;">
-  <a href="https://linkedin.com/in/afin-nk-195366340" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img
-      alt="LinkedIn"
-      src="https://raw.githubusercontent.com/edent/SuperTinyIcons/main/images/svg/linkedin.svg"
-      width="32" height="32"
-      style="border-radius: 8px; background-color: #0077B5; padding: 4px;"
-    />
-    <img
-      alt="LinkedIn animated"
-      src="https://media.giphy.com/media/3o7TKwD6bdxsaE2f1u/giphy.gif"
-      width="32" height="32"
-      style="position: relative; left: -36px; top: 0px;"
-    />
+<p align="left">
+  <a href="https://linkedin.com/in/afin-nk-195366340" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="mailto:afinnk1@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img
-      alt="Email"
-      src="https://raw.githubusercontent.com/edent/SuperTinyIcons/main/images/svg/google.svg"
-      width="32" height="32"
-      style="border-radius: 8px; background-color: #D14836; padding: 4px;"
-    />
-    <img
-      alt="Email animated"
-      src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
-      width="32" height="32"
-      style="position: relative; left: -36px; top: 0px;"
-    />
+  <a href="mailto:afinnk1@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
-  <a href="https://x.com/Afinnk1" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img
-      alt="X (Twitter)"
-      src="https://raw.githubusercontent.com/edent/SuperTinyIcons/main/images/svg/twitter.svg"
-      width="32" height="32"
-      style="border-radius: 8px; background-color: white; padding: 4px;"
-    />
-    <img
-      alt="X animated"
-      src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif"
-      width="32" height="32"
-      style="position: relative; left: -36px; top: 0px;"
-    />
+  <a href="https://x.com/Afinnk1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
 
