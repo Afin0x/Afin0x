@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧑‍💻 About%20Me-F97316?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🧑‍💻 About%20Me-F97316?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 
