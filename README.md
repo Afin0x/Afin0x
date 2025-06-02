@@ -9,7 +9,10 @@
 
 ---
 
-### 🧑‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&width=435&lines=🧑‍💻+About+Me" alt="About Me Typing Animation" />
+</p>
+
 
 -  Currently learning the **MERN Stack**
 -  Passionate about **frontend development** and **modern UI/UX design**
