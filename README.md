@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧑‍💻 About Me-orange?style=for-the-badge&logo=github" />
+  <img src="https://imgur.com/YourImageLinkHere.png" alt="About Me Banner" />
 </p>
 
 
