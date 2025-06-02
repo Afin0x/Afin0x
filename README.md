@@ -34,7 +34,7 @@ Experienced in building responsive web interfaces using **React.js**, with a foc
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Connect%20With%20Me-%20-008080?style=for-the-badge&logo=mailchimp&logoColor=white" alt="Connect With Me" />
+  <img src="https://img.shields.io/badge/Connect%20With%20Me-%20-blueviolet?style=for-the-badge&logo=mailchimp&logoColor=white" alt="Connect With Me" />
 </p>
 
 
